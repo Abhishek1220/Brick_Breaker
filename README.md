@@ -12,3 +12,5 @@ Game Over and Restart Options: A well-designed game over screen allows players t
 Code Optimization and Efficiency: The code is structured efficiently, employing object-oriented principles to enhance readability and maintainability. It utilizes appropriate design patterns and avoids code duplication.
 Sound Effects and Music (Optional): For an enhanced gaming experience, the project may incorporate sound effects and background music, creating a more immersive atmosphere.
 The Java Brick Breaker Game serves as an exciting and educational mini-project, offering hands-on experience in game development with Java. It combines programming, user interface design, and game mechanics, making it an ideal choice for those looking to delve into the world of game programming.
+
+<img width="517" alt="Screenshot 2024-01-26 202018" src="https://github.com/Abhishek1220/Brick_Breaker/assets/114686592/adbd8e98-01bb-43b1-b2b4-bcedd20b716f">
